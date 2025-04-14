@@ -31,4 +31,4 @@ The Password Strength Checker features a modern, animated design with a sleek us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ParthXD7/password-strength-checker.git
+   git clone https://github.com/xd3parth/password-strength-checker.git
