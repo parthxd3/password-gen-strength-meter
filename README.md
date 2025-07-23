@@ -17,7 +17,7 @@ The Password Strength Checker features a modern, animated design with a sleek us
 
 ## 📸 Preview
 
-(https://parthxd7.github.io/password-gen-strength-meter/)
+(https://parthxd3.github.io/password-gen-strength-meter/)
 
 ## 📖 How to Use
 
